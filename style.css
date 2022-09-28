@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
 
 }
-.form-container{
+.form-container {
     width: 100%;
     max-width: 650px;
     margin:0 auto;
@@ -26,4 +26,14 @@ body {
     color: #fff;
     background: #09aad0;
 }
-.input-row{}
+.input-row {
+    margin-bottom: 10px;
+}
+.input-row label {
+    display: block;
+    margin-bottom: 3px;
+}
+.input-row input,
+.input-row textarea {
+    width: 100%;
+}
