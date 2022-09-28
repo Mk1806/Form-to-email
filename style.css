@@ -36,4 +36,11 @@ body {
 .input-row input,
 .input-row textarea {
     width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 3px;
+    outline: 0;
+    margin-bottom: 3px;
+    font-size: 18px;
+    font-family: arial;
 }
