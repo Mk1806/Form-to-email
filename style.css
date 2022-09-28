@@ -44,3 +44,15 @@ body {
     font-size: 18px;
     font-family: arial;
 }
+.input-row textarea {
+    height: 100px;
+}
+.input-row input[type="submit"] {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+    background: #002f3a;
+}
